@@ -36,4 +36,4 @@ mod pool;
 mod sleep;
 mod task;
 
-pub(crate) mod blocking;
+pub mod blocking;
